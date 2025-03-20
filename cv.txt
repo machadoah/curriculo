@@ -1,0 +1,102 @@
+---
+name: Antonio Henrique Machado
+header:
+  - text: |
+      <span style="font-size: 1.2em; font-weight: bold;">Software Engineer | AI Engineer</span>
+  - text: <span class="iconify" data-icon="tabler:phone"></span> (+55) 13 99128-1040
+    newLine: true
+  - text: <span class="iconify" data-icon="tabler:mail"></span> machadoah@proton.me
+    link: mailto:machadoah@proton.me
+  - text: <span class="iconify" data-icon="tabler:brand-github"></span> machadoah
+    link: https://github.com/machadoah
+  - text: <span class="iconify" data-icon="charm:person"></span> machadoah.com.br
+    link: https://machadoah.com.br
+---
+
+<!-- Important: Replace all template content, especially contact details, with your own information. -->
+
+<!-- Important: When updating your email address, remember to change both the "text" (visible text) and the "link" (underlying hyperlink) fields. -->
+
+
+## Educação
+
+**Faculdade de Tecnologia do Estado de São Paulo - Centro Paula Souza**
+  ~ Fatec Praia Grande
+
+Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
+  ~ 01/2022 - 12/2024
+
+**Escola de Tecnologia do Estado de São Paulo - Centro Paula Souza**
+  ~ Etec de Peruíbe
+
+Curso Técnico em Administração
+  ~ 01/2019 - 12/2021
+
+**Grupo de Estudo de Educação a Distância - Centro Paula Souza**
+  ~ Etec de Peruíbe
+
+Curso Técnico em Comércio
+  ~ 08/2020 - 12/2021
+
+
+<!-- ## Publications
+
+[~P1]: **Eating is All You Need**
+
+    <u>Haha Ha</u>, San Zhang
+
+    *Conference on Nutritional Ingredients Processing Systems (NIPS), 2099*
+
+[~P2]: **You Only Cook Once: Unified, Real-Time Mapo Tofu Recipe**
+
+    <u>Haha Ha</u>, San Zhang, Si Li, Wu Wang
+
+    *Culinary Visualization and Potato Roasting Conference (CVPR), 2077 **(Best Paper Honorable Mention)*** -->
+
+
+## Experiência
+
+**Software Engineer Assistant**
+  ~ Gupy
+  ~ 12/2024 - Atualmente
+
+- Realizar análises exploratórias de dados, em SQL através de ferramentas como o **Superset** ou via **Jupyter Notebook**.
+- Utilizar arquiteura RAG através de frameworks como **Llmaindex**.
+- Implementar e manter códigos Python.
+- Realizar o monitoramento da infraestrutura, principalemnte com o DataDog.
+- Manter e desenvolver APIs, utilizando Poetry, UV, Docker, FastAPI e demais tecnologias.
+- Realizar teste unitários.
+- Ter preocupação com performance e qualidade de código.
+
+**Data Scientist Intern**
+  ~ Gupy
+  ~ 02/2024 - 11/2024
+
+Ingressei no inicio de 2024 no **"Programa de Estágio Gupy"**, na área de Engenharia - Dados e Inteligência Artificial. Atuando em projetos que promovem:
+- Criar dashboards e visualizações de métricas de produção pro negócio e para os clientes.
+- Implementar arquiteturas de solução que integrem modelos de Machine learning com os demais serviços Gupy.
+- Processar e tratar grande volume de informações para gerar insights e utilizar com base de conhecimento para RAG.
+- Trabalhar com dados estruturados e não estruturados.
+- Criar e implementar modelos de Machine Learning e Deep Learning que ajudam resolver os problemas do negocio.
+- Utilizar bibliotecas populares de Ciência de Dados, como Scikit-learn, Pandas e Numpy.
+
+**Estudante de Iniciação Ciêntifica**
+  ~ Centro Paula Souza
+  ~ 08/2023 - 12/2023
+
+Tive a oportunidade de ser membro no segundo semestre de 2023, do programa de Monitoria de Iniciação em Desenvolvimento Tecnológico e Inovação – MIDTI, onde realizei juntamente com meu orientador uma pesquisa relacionada a área de IA, mais especificamente uma pesquisa exploratória relacionadas as perspectivas dos especialistas em relação ao futuro da IA na sociedade.
+
+**Estagiário de TI**
+  ~ Prefeitura da Estância Balneária de Peruíbe
+  ~ 05/2022 - 06/2022
+
+Durante meu período como Estagiário de Tecnologia da Informação na Prefeitura de Peruíbe, fiz parte da equipe de Serviço de Tecnologia, Informação e Comunicação (STIC) da Secretaria Municipal de Educação (SME). Minha principal responsabilidade era fornecer suporte técnico para as aproximadamente 40 unidades escolares, órgãos parceiros e a SME.
+
+
+## Skills
+
+**Linguagens de Programação:** <span class="iconify" data-icon="vscode-icons:file-type-python"></span> Python, <span class="iconify" data-icon="vscode-icons:file-type-js-official"></span> JavaScript / <span class="iconify" data-icon="vscode-icons:file-type-typescript-official"></span> TypeScript, <span class="iconify" data-icon="logos:java" data-inline="false"></span> Java
+
+**Frameworks:** <span class="iconify" data-icon="devicon:fastapi"></span> FastAPI, <span class="iconify" data-icon="devicon:pytest"></span> Pytest, <span class="iconify" data-icon="devicon:sqlalchemy"></span> SQLAlchemy, <span class="iconify" data-icon="simple-icons:langchain"></span> LangChain, <span class="iconify" data-icon="devicon:pandas"></span> Pandas, <span class="iconify" data-icon="devicon:flask"></span> Flask
+
+**Banco de Dados e Infraestrutura:** <span class="iconify" data-icon="devicon:postgresql"></span> PostgreSQL e PgVector, <span class="iconify" data-icon="logos:pinecone-icon"></span> Pinecone, <span class="iconify" data-icon="logos:chroma"></span> ChromaDB, <span class="iconify" data-icon="logos:qdrant-icon"></span> Qdrant, <span class="iconify" data-icon="devicon:amazonwebservices-wordmark"></span> AWS 
